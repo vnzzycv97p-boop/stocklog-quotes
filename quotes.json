@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T03:08:50.332653+00:00",
+  "updated": "2026-06-14T03:23:48.230719+00:00",
   "quotes": {
     "LLY": {
       "price": "1133.00",
@@ -150,6 +150,54 @@
       "change": "-2.54%",
       "prevClose": "47.66",
       "prevVolume": "103600"
+    },
+    "DELL": {
+      "price": "395.57",
+      "change": "+1.05%",
+      "prevClose": "391.45",
+      "prevVolume": "7869800"
+    },
+    "IBM": {
+      "price": "272.24",
+      "change": "-0.95%",
+      "prevClose": "274.85",
+      "prevVolume": "7558300"
+    },
+    "SNOW": {
+      "price": "232.78",
+      "change": "-3.17%",
+      "prevClose": "240.39",
+      "prevVolume": "7804000"
+    },
+    "STAK": {
+      "price": "7.72",
+      "change": "-4.93%",
+      "prevClose": "8.12",
+      "prevVolume": "893800"
+    },
+    "NCEW": {
+      "price": "19.73",
+      "change": "-1.35%",
+      "prevClose": "20.00",
+      "prevVolume": "700"
+    },
+    "INTC": {
+      "price": "124.57",
+      "change": "+6.51%",
+      "prevClose": "116.96",
+      "prevVolume": "188430300"
+    },
+    "SPY": {
+      "price": "741.75",
+      "change": "+0.54%",
+      "prevClose": "737.76",
+      "prevVolume": "86330500"
+    },
+    "TJX": {
+      "price": "168.41",
+      "change": "+0.04%",
+      "prevClose": "168.34",
+      "prevVolume": "6983900"
     }
   }
 }
