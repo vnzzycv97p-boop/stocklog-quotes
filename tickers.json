@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T11:02:12.951Z",
+  "updated": "2026-06-30T11:05:35.959Z",
   "tickers": [
     "LLY",
     "AMD",
@@ -48,6 +48,7 @@
     "RKLB",
     "VICR",
     "WDC",
-    "UMC"
+    "UMC",
+    "AAPL"
   ]
 }
