@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T11:03:35.317Z",
+  "updated": "2026-07-26T05:34:04.790Z",
   "tickers": [
     "LLY",
     "AMD",
@@ -52,6 +52,8 @@
     "AAPL",
     "NVDA",
     "SMCI",
-    "HPE"
+    "HPE",
+    "DK",
+    "SU"
   ]
 }
