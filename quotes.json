@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T23:06:55.533986+00:00",
+  "updated": "2026-09-07T23:37:20.657551+00:00",
   "quotes": {
     "LLY": {
       "price": "1149.36",
@@ -177,9 +177,9 @@
     },
     "NCEW": {
       "price": "16.24",
-      "change": "-10.18%",
-      "prevClose": "18.08",
-      "prevVolume": "0"
+      "change": "+0.0%",
+      "prevClose": "16.24",
+      "prevVolume": "700"
     },
     "INTC": {
       "price": "95.80",
@@ -291,8 +291,8 @@
     },
     "SU": {
       "price": "67.33",
-      "change": "-1.33%",
-      "prevClose": "68.24",
+      "change": "-0.71%",
+      "prevClose": "67.81",
       "prevVolume": "12765700"
     }
   }
