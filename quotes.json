@@ -1,299 +1,299 @@
 {
-  "updated": "2026-09-23T23:48:32.649660+00:00",
+  "updated": "2026-09-24T23:55:24.155085+00:00",
   "quotes": {
     "LLY": {
-      "price": "1150.99",
-      "change": "-1.19%",
-      "prevClose": "1164.89",
-      "prevVolume": "2476600"
+      "price": "1181.89",
+      "change": "+2.68%",
+      "prevClose": "1150.99",
+      "prevVolume": "2154100"
     },
     "AMD": {
-      "price": "614.61",
-      "change": "-1.47%",
-      "prevClose": "623.77",
-      "prevVolume": "28282800"
+      "price": "629.26",
+      "change": "+2.38%",
+      "prevClose": "614.61",
+      "prevVolume": "16338200"
     },
     "AGX": {
-      "price": "374.40",
-      "change": "-1.5%",
-      "prevClose": "380.12",
-      "prevVolume": "872400"
+      "price": "361.06",
+      "change": "-3.56%",
+      "prevClose": "374.40",
+      "prevVolume": "251700"
     },
     "BAND": {
-      "price": "59.13",
-      "change": "+8.87%",
-      "prevClose": "54.31",
-      "prevVolume": "666100"
+      "price": "61.83",
+      "change": "+4.57%",
+      "prevClose": "59.13",
+      "prevVolume": "1280500"
     },
     "BE": {
-      "price": "275.19",
-      "change": "-0.48%",
-      "prevClose": "276.53",
-      "prevVolume": "10586100"
+      "price": "266.65",
+      "change": "-3.1%",
+      "prevClose": "275.19",
+      "prevVolume": "8193500"
     },
     "SNDK": {
-      "price": "1816.57",
-      "change": "-3.73%",
-      "prevClose": "1887.04",
-      "prevVolume": "12927100"
+      "price": "1753.62",
+      "change": "-3.47%",
+      "prevClose": "1816.57",
+      "prevVolume": "7732000"
     },
     "HUT": {
-      "price": "102.46",
-      "change": "-0.93%",
-      "prevClose": "103.42",
-      "prevVolume": "5715800"
+      "price": "101.54",
+      "change": "-0.9%",
+      "prevClose": "102.46",
+      "prevVolume": "3194000"
     },
     "TTMI": {
-      "price": "125.82",
-      "change": "+1.45%",
-      "prevClose": "124.02",
-      "prevVolume": "2068700"
+      "price": "126.98",
+      "change": "+0.92%",
+      "prevClose": "125.82",
+      "prevVolume": "1322800"
     },
     "MXL": {
-      "price": "84.32",
-      "change": "-1.93%",
-      "prevClose": "85.98",
-      "prevVolume": "4080900"
+      "price": "85.31",
+      "change": "+1.17%",
+      "prevClose": "84.32",
+      "prevVolume": "2091300"
     },
     "STX": {
-      "price": "923.86",
-      "change": "+5.3%",
-      "prevClose": "877.33",
-      "prevVolume": "4190400"
+      "price": "905.92",
+      "change": "-1.94%",
+      "prevClose": "923.86",
+      "prevVolume": "3242800"
     },
     "MU": {
-      "price": "1071.88",
-      "change": "-2.22%",
-      "prevClose": "1096.16",
-      "prevVolume": "29189700"
+      "price": "1080.53",
+      "change": "+0.81%",
+      "prevClose": "1071.88",
+      "prevVolume": "21572800"
     },
     "VIAV": {
-      "price": "36.43",
-      "change": "+0.08%",
-      "prevClose": "36.40",
-      "prevVolume": "4710200"
+      "price": "37.23",
+      "change": "+2.2%",
+      "prevClose": "36.43",
+      "prevVolume": "6833100"
     },
     "AAOI": {
-      "price": "101.06",
-      "change": "-5.55%",
-      "prevClose": "107.00",
-      "prevVolume": "7480500"
+      "price": "101.03",
+      "change": "-0.03%",
+      "prevClose": "101.06",
+      "prevVolume": "6601700"
     },
     "LITE": {
-      "price": "937.00",
-      "change": "-0.92%",
-      "prevClose": "945.67",
-      "prevVolume": "4333900"
+      "price": "929.04",
+      "change": "-0.85%",
+      "prevClose": "937.00",
+      "prevVolume": "3271500"
     },
     "LRCX": {
-      "price": "307.28",
-      "change": "-1.18%",
-      "prevClose": "310.96",
-      "prevVolume": "9294800"
+      "price": "307.16",
+      "change": "-0.04%",
+      "prevClose": "307.28",
+      "prevVolume": "9644600"
     },
     "KEYS": {
-      "price": "353.36",
-      "change": "+3.31%",
-      "prevClose": "342.03",
-      "prevVolume": "764400"
+      "price": "357.54",
+      "change": "+1.18%",
+      "prevClose": "353.36",
+      "prevVolume": "1421900"
     },
     "VPG": {
-      "price": "69.83",
-      "change": "+7.51%",
-      "prevClose": "64.95",
-      "prevVolume": "374900"
+      "price": "68.57",
+      "change": "-1.8%",
+      "prevClose": "69.83",
+      "prevVolume": "250000"
     },
     "SPOT": {
-      "price": "510.40",
-      "change": "-1.23%",
-      "prevClose": "516.77",
-      "prevVolume": "1520200"
+      "price": "511.38",
+      "change": "+0.19%",
+      "prevClose": "510.40",
+      "prevVolume": "1822300"
     },
     "CIEN": {
-      "price": "355.91",
-      "change": "-2.75%",
-      "prevClose": "365.96",
-      "prevVolume": "2886500"
+      "price": "358.43",
+      "change": "+0.71%",
+      "prevClose": "355.91",
+      "prevVolume": "1851600"
     },
     "MS": {
-      "price": "198.39",
-      "change": "-3.75%",
-      "prevClose": "206.12",
-      "prevVolume": "4040600"
+      "price": "196.32",
+      "change": "-1.04%",
+      "prevClose": "198.39",
+      "prevVolume": "4341300"
     },
     "TXN": {
-      "price": "272.62",
-      "change": "+0.65%",
-      "prevClose": "270.87",
-      "prevVolume": "7901400"
+      "price": "270.65",
+      "change": "-0.72%",
+      "prevClose": "272.62",
+      "prevVolume": "5555000"
     },
     "GS": {
-      "price": "936.36",
-      "change": "-2.4%",
-      "prevClose": "959.39",
-      "prevVolume": "1863000"
+      "price": "923.29",
+      "change": "-1.4%",
+      "prevClose": "936.36",
+      "prevVolume": "2131500"
     },
     "WULF": {
-      "price": "16.35",
-      "change": "-5.65%",
-      "prevClose": "17.33",
-      "prevVolume": "22720200"
+      "price": "16.29",
+      "change": "-0.37%",
+      "prevClose": "16.35",
+      "prevVolume": "32099800"
     },
     "LWLG": {
-      "price": "5.27",
-      "change": "-4.53%",
-      "prevClose": "5.52",
-      "prevVolume": "3027400"
+      "price": "5.28",
+      "change": "+0.19%",
+      "prevClose": "5.27",
+      "prevVolume": "2192000"
     },
     "SILC": {
-      "price": "48.58",
-      "change": "-0.31%",
-      "prevClose": "48.73",
-      "prevVolume": "257300"
+      "price": "51.62",
+      "change": "+6.26%",
+      "prevClose": "48.58",
+      "prevVolume": "141200"
     },
     "DELL": {
-      "price": "549.83",
-      "change": "+0.17%",
-      "prevClose": "548.92",
-      "prevVolume": "9781600"
+      "price": "536.02",
+      "change": "-2.51%",
+      "prevClose": "549.83",
+      "prevVolume": "8252300"
     },
     "IBM": {
-      "price": "232.76",
-      "change": "+0.36%",
-      "prevClose": "231.93",
-      "prevVolume": "8200100"
+      "price": "227.06",
+      "change": "-2.45%",
+      "prevClose": "232.76",
+      "prevVolume": "4536600"
     },
     "SNOW": {
-      "price": "334.81",
-      "change": "-1.35%",
-      "prevClose": "339.39",
-      "prevVolume": "3690300"
+      "price": "334.00",
+      "change": "-0.24%",
+      "prevClose": "334.81",
+      "prevVolume": "4037300"
     },
     "STAK": {
-      "price": "0.94",
-      "change": "-12.96%",
-      "prevClose": "1.08",
-      "prevVolume": "144600"
+      "price": "1.44",
+      "change": "+53.19%",
+      "prevClose": "0.94",
+      "prevVolume": "398600"
     },
     "NCEW": {
-      "price": "17.00",
-      "change": "-1.28%",
-      "prevClose": "17.22",
-      "prevVolume": "0"
+      "price": "17.63",
+      "change": "+3.71%",
+      "prevClose": "17.00",
+      "prevVolume": "4100"
     },
     "INTC": {
-      "price": "122.60",
-      "change": "-1.02%",
-      "prevClose": "123.86",
-      "prevVolume": "108379400"
+      "price": "127.39",
+      "change": "+3.91%",
+      "prevClose": "122.60",
+      "prevVolume": "85621100"
     },
     "SPY": {
-      "price": "767.81",
-      "change": "-0.72%",
-      "prevClose": "773.38",
-      "prevVolume": "34802300"
+      "price": "767.18",
+      "change": "-0.08%",
+      "prevClose": "767.81",
+      "prevVolume": "54931700"
     },
     "TJX": {
-      "price": "131.59",
-      "change": "+0.48%",
-      "prevClose": "130.96",
-      "prevVolume": "11408100"
+      "price": "131.63",
+      "change": "+0.03%",
+      "prevClose": "131.59",
+      "prevVolume": "8649600"
     },
     "KLAC": {
-      "price": "187.86",
-      "change": "+2.11%",
-      "prevClose": "183.97",
-      "prevVolume": "9649900"
+      "price": "187.11",
+      "change": "-0.4%",
+      "prevClose": "187.86",
+      "prevVolume": "8852100"
     },
     "AXTI": {
-      "price": "72.98",
-      "change": "-6.18%",
-      "prevClose": "77.79",
-      "prevVolume": "7665600"
+      "price": "75.90",
+      "change": "+4.0%",
+      "prevClose": "72.98",
+      "prevVolume": "5353800"
     },
     "TD": {
-      "price": "119.41",
-      "change": "-3.73%",
-      "prevClose": "124.04",
-      "prevVolume": "850400"
+      "price": "119.26",
+      "change": "-0.13%",
+      "prevClose": "119.41",
+      "prevVolume": "1609200"
     },
     "RGTI": {
-      "price": "16.00",
-      "change": "-3.15%",
-      "prevClose": "16.52",
-      "prevVolume": "13847000"
+      "price": "16.50",
+      "change": "+3.12%",
+      "prevClose": "16.00",
+      "prevVolume": "27251500"
     },
     "PWR": {
-      "price": "634.90",
-      "change": "-1.2%",
-      "prevClose": "642.61",
-      "prevVolume": "753600"
+      "price": "643.50",
+      "change": "+1.35%",
+      "prevClose": "634.90",
+      "prevVolume": "795300"
     },
     "PGY": {
       "price": "18.72",
-      "change": "-10.43%",
-      "prevClose": "20.90",
-      "prevVolume": "1589400"
+      "change": "+0.0%",
+      "prevClose": "18.72",
+      "prevVolume": "6661400"
     },
     "RKLB": {
-      "price": "70.31",
-      "change": "-2.32%",
-      "prevClose": "71.98",
-      "prevVolume": "22048800"
+      "price": "73.61",
+      "change": "+4.69%",
+      "prevClose": "70.31",
+      "prevVolume": "19258700"
     },
     "VICR": {
-      "price": "283.16",
-      "change": "+26.47%",
-      "prevClose": "223.90",
-      "prevVolume": "1038600"
+      "price": "276.06",
+      "change": "-2.51%",
+      "prevClose": "283.16",
+      "prevVolume": "1618100"
     },
     "WDC": {
-      "price": "473.69",
-      "change": "+1.96%",
-      "prevClose": "464.60",
-      "prevVolume": "8419900"
+      "price": "450.31",
+      "change": "-4.94%",
+      "prevClose": "473.69",
+      "prevVolume": "5037700"
     },
     "UMC": {
-      "price": "24.68",
-      "change": "-4.23%",
-      "prevClose": "25.77",
-      "prevVolume": "8421800"
+      "price": "24.10",
+      "change": "-2.35%",
+      "prevClose": "24.68",
+      "prevVolume": "10892400"
     },
     "AAPL": {
-      "price": "337.02",
-      "change": "-0.8%",
-      "prevClose": "339.75",
-      "prevVolume": "40711800"
+      "price": "335.92",
+      "change": "-0.33%",
+      "prevClose": "337.02",
+      "prevVolume": "31658800"
     },
     "NVDA": {
-      "price": "225.51",
-      "change": "-1.47%",
-      "prevClose": "228.87",
-      "prevVolume": "95746700"
+      "price": "224.58",
+      "change": "-0.41%",
+      "prevClose": "225.51",
+      "prevVolume": "89547300"
     },
     "SMCI": {
-      "price": "41.44",
-      "change": "-0.24%",
-      "prevClose": "41.54",
-      "prevVolume": "30249800"
+      "price": "41.51",
+      "change": "+0.17%",
+      "prevClose": "41.44",
+      "prevVolume": "40871500"
     },
     "HPE": {
-      "price": "62.33",
-      "change": "+2.13%",
-      "prevClose": "61.03",
-      "prevVolume": "16807900"
+      "price": "63.52",
+      "change": "+1.91%",
+      "prevClose": "62.33",
+      "prevVolume": "14985000"
     },
     "DK": {
-      "price": "72.26",
-      "change": "-2.84%",
-      "prevClose": "74.37",
-      "prevVolume": "1723100"
+      "price": "66.91",
+      "change": "-7.4%",
+      "prevClose": "72.26",
+      "prevVolume": "2152700"
     },
     "SU": {
-      "price": "67.98",
-      "change": "+1.1%",
-      "prevClose": "67.24",
-      "prevVolume": "4440600"
+      "price": "68.65",
+      "change": "+0.99%",
+      "prevClose": "67.98",
+      "prevVolume": "4523000"
     }
   }
 }
