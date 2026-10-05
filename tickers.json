@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T00:07:46.135Z",
+  "updated": "2026-10-05T00:42:29.546Z",
   "tickers": [
     "LLY",
     "AMD",
@@ -54,6 +54,29 @@
     "SMCI",
     "HPE",
     "DK",
-    "SU"
+    "SU",
+    "MPWR",
+    "LEN",
+    "TMO",
+    "NRG",
+    "ZBRA",
+    "PCG",
+    "HUM",
+    "PANW",
+    "CSCO",
+    "STRL",
+    "INTU",
+    "LOW",
+    "HAE",
+    "AMAT",
+    "MRK",
+    "TSEM",
+    "TRMB",
+    "ANET",
+    "NTAP",
+    "AVT",
+    "WK",
+    "COHR",
+    "TEM"
   ]
 }
